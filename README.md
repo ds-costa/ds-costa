@@ -22,3 +22,4 @@
 | Language | Repository Link |
 |---|--------------------------------------------------------------|
 | C/C++ | [c-algorithms](https://github.com/ds-costa/c-algorithms.git) |
+| Shell | [post-installer](https://github.com/ds-costa/post-installer) |
