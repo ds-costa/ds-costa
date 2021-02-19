@@ -21,7 +21,7 @@
 - VScode
 - Visual Studio
 
-## 💻 Current repos
+## 💻 Public repos
 
 | Language | Repository Link |
 |---|--------------------------------------------------------------|
