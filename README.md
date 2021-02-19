@@ -3,19 +3,23 @@
 
 [![LinkedIn](https://img.shields.io/badge/-David%20Costa-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ds-costa/) [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:davidshcosta@gmail.com) [![College Email](https://img.shields.io/badge/-College%20email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ds.costa@unesp.br) [![Steam](https://img.shields.io/badge/-FLOWT-black?style=flat-square&logo=Steam&logoColor=white)](https://steamcommunity.com/id/flowtflowers)
 
-## 🛠️ My Skills
+## 🛠️ Languages
+- C / C++ / C#
 - Javascript
-- C
+- Python
 
-## 🔧 Familiar with
+## 🌱 Game Engines and frameworks
+- Unity3d
+- Pygame
+- Phaser
+
+## 🌍 Web stack
+- JAM
+
+## 🔧 Software
 - Git
-- C++
-- C#
-- Java
-
-
-## 🌱 I’m currently learning
-- Unity engine
+- VScode
+- Visual Studio
 
 ## 💻 Current repos
 
