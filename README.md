@@ -10,11 +10,6 @@
 
 ## 🕹️ Game Engines and frameworks
 - Unity3d
-- Pygame
-- Phaser
-
-## 🌍 Web stack
-- JAM
 
 ## 🔧 Software
 - Git
