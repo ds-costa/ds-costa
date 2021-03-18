@@ -22,3 +22,4 @@
 |---|--------------------------------------------------------------|
 | C/C++ | [c-algorithms](https://github.com/ds-costa/c-algorithms.git) |
 | Shell | [post-installer](https://github.com/ds-costa/post-installer) |
+| css | [shrimp-css](https://github.com/ds-costa/shrimp-css) |
