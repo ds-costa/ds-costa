@@ -5,10 +5,14 @@
 
 ## 🛠️ Languages
 - C / C++ / C#
-- Javascript
+- HTML5 / CSS3 / Javascript
 - Python
 
-## 🕹️ Game Engines and frameworks
+## 🌐 Web development Technologies
+- PWA
+- Reactjs
+
+## 🕹️ Game development Engines
 - Unity3d
 
 ## 🔧 Software
