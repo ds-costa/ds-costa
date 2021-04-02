@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm David Costa a student and programming enthusiast.
 
-[![LinkedIn](https://img.shields.io/badge/-David%20Costa-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ds-costa/) [![davidshcosta@gmail.com](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:davidshcosta@gmail.com) [![ds.costa@unesp.br](https://img.shields.io/badge/-College%20email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ds.costa@unesp.br) [![Steam](https://img.shields.io/badge/-FLOWT-black?style=flat-square&logo=Steam&logoColor=white)](https://steamcommunity.com/id/flowtflowers)
+[![LinkedIn](https://img.shields.io/badge/-David%20Costa-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ds-costa/) [![davidshcosta@gmail.com](https://img.shields.io/badge/-davidshcosta@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:davidshcosta@gmail.com) [![ds.costa@unesp.br](https://img.shields.io/badge/-ds.costa@unesp.br-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ds.costa@unesp.br) [![Steam](https://img.shields.io/badge/-FLOWT-black?style=flat-square&logo=Steam&logoColor=white)](https://steamcommunity.com/id/flowtflowers)
 
 ## 🛠️ Languages
 - C / C++ / C#
